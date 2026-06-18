@@ -22,3 +22,7 @@ A simple Java implementation of the classic Tic-Tac-Toe game for two players.
    java TicTacToe
    ```
 
+## Screenshot
+
+![Tic-Tac-Toe Screenshot](Screenshot%202026-06-18%20220840.png)
+
